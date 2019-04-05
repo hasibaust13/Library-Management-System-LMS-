@@ -1,0 +1,66 @@
+body {
+    background-image: url("books.jpg");
+	background-repeat: no-repeat;
+    background-size: relative;
+}
+
+h4{    
+    color : black;
+	text-align : center;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	font-size: 40px;
+	border: 1px solid black;
+	background-color : beige;
+ }
+ 
+ 
+
+
+#book
+{
+	font-size: 50px;
+    color: blue;
+    position: center;
+	border-radius:5px;
+	text-align: center;
+    background-color: activecaption;
+    border: 2px solid black;
+    padding:10px;
+	height:50px; 
+    width:150px;
+	box-shadow: 1px 1px black; 
+	margin-top: 100px;
+	
+}	
+
+#stdnt
+{
+	font-size: 50px;
+    color: blue;
+    position: relative;
+	border-radius:5px;
+	text-align: center;
+    background-color: activecaption;
+    border: 2px solid black;
+    padding:10px;
+	height:50px; 
+    width:150px;
+	box-shadow: 1px 1px black; 
+	
+}
+
+#rcrd
+{
+	font-size: 50px;
+    color: blue;
+    position: relative;
+	border-radius:5px;
+	text-align: center;
+    background-color: activecaption;
+    border: 2px solid black;
+    padding:10px;
+	height:50px; 
+    width:150px;
+}
+
