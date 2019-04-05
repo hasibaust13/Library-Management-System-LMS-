@@ -1,1 +1,1 @@
-Library Management System is a system where information of everything that happens in a library is noted, arranged and managed.This Library Management System will be developed using Microsoft SQL Server.It’ll be suitable for automating a small or medium sized library.
+Library Management System is a system where information of everything that happens in a library is noted, arranged and managed.This Library Management System is developed using Microsoft SQL Server.It is suitable for automating a small or medium sized library.
